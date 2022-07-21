@@ -73,6 +73,7 @@ $ yarn start
 - [x] <a href="https://www.typescriptlang.org/">Typescript</a>
 - [x] <a href="https://tailwindcss.com/">Tailwind</a>
 - [x] <a href="https://postcss.org/">PostCSS</a>
+- [x] <a href="https://phosphoricons.com/">Phosphor Icons</a>
 - [x] <a href="https://graphql.org/">GraphQL</a>
 - [x] <a href="https://hygraph.com/">GraphCMS</a>
 - [x] <a href="https://www.apollographql.com/">Apollo</a>
