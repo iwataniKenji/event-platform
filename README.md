@@ -18,10 +18,9 @@
 
 <H2 id="about">📙 About</H2>
 
-<!-- <p>Letmeask is a project developed for content creators to create Q&A rooms in a more organized and democratic way, helping the host to find more relevant questions faster</p>
-<p>This project used <a href="https://firebase.google.com/">Firebase</a> for deployment.</p>
-<p>Originally created on Next Level Week Together #6 and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
-<p>
+<p>Using the latest technologies, this event platform is an single page application developed for content creators to organize classes and livestreams based on a determined date and time to be available for the user. Also, this system has GraphCMS integration that allows easier way to input data to the components.</p>
+<p>Originally created on Ignite Lab #2 from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
+<!-- <p>
     <h3><a href="https://letmeask-c10c3.web.app/">Check website &rarr;</a></h3>
 </p> -->
 
@@ -57,13 +56,10 @@ $ yarn start
 
 <H2 id="features">💡 Features</H2>
 
-<!-- - [x] Google authentication
-- [x] Navigation between pages
-- [x] Database usage
-- [x] Creating, joining and closing rooms
-- [x] "Copy room code to clipboard" button
-- [x] Separated admin and user events
-- [x] Question buttons (like, answered, highlight, remove) -->
+- [x] Clean application architecture construction 
+- [x] Headless CMS usage to get data
+- [x] Array loop using props to get data through Apollo
+- [ ] Routing system
 
 ---
 
