@@ -45,6 +45,9 @@ $ git clone https://github.com/iwataniKenji/event-platform
 # Access the project directory
 $ cd event-platform
 
+# Rename the config file and set your environment variables accordingly
+$ ren ".env.example" ".env.local"
+
 # Install dependencies
 $ yarn
 
@@ -61,7 +64,10 @@ $ yarn start
 - [x] Array loop using props to get data through Apollo
 - [x] Video frame implemented with vime
 - [x] Routing system
-- [x] Data fetching through query
+- [x] Data fetching through queries and mutations
+- [x] Active state styling on some components
+- [x] Login form input implemented from scratch
+- [x] GraphQL code generator usage for automate queries and mutations creation
 
 ---
 
@@ -74,5 +80,6 @@ $ yarn start
 - [x] <a href="https://phosphoricons.com/">Phosphor Icons</a>
 - [x] <a href="https://graphql.org/">GraphQL</a>
 - [x] <a href="https://hygraph.com/">GraphCMS</a>
+- [x] <a href="https://www.graphql-code-generator.com/">GraphQL Code Generator</a>
 - [x] <a href="https://www.apollographql.com/">Apollo</a>
 - [x] <a href="https://www.npmjs.com/package/react-router-dom">React Router Dom</a>
