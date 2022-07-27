@@ -1,6 +1,9 @@
 import { ApolloClient, InMemoryCache } from "@apollo/client";
 
 export const client = new ApolloClient({
-  uri: "https://api-sa-east-1.hygraph.com/v2/cl5uf6t993eed01t8bur14utd/master", // url do graph cms
+  uri: import.meta.env.VITE_API_URL, // url do graph cms
+  headers: {
+    Authorization: `Bearer ${import.meta.env.VITE_API_ACCESS_TOKEN}`,
+  },
   cache: new InMemoryCache(), // cache na memória
 });
