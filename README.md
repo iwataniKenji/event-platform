@@ -56,10 +56,12 @@ $ yarn start
 
 <H2 id="features">💡 Features</H2>
 
-- [x] Clean application architecture construction 
+- [x] Clean application architecture construction
 - [x] Headless CMS usage to get data
 - [x] Array loop using props to get data through Apollo
-- [ ] Routing system
+- [x] Video frame implemented with vime
+- [x] Routing system
+- [x] Data fetching through query
 
 ---
 
@@ -73,3 +75,4 @@ $ yarn start
 - [x] <a href="https://graphql.org/">GraphQL</a>
 - [x] <a href="https://hygraph.com/">GraphCMS</a>
 - [x] <a href="https://www.apollographql.com/">Apollo</a>
+- [x] <a href="https://www.npmjs.com/package/react-router-dom">React Router Dom</a>
