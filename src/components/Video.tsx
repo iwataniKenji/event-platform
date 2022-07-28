@@ -21,11 +21,7 @@ export function Video({ lessonSlug }: VideoProps) {
   });
 
   if (!data || !data.lesson) {
-    return (
-      <div className="flex-1">
-        <p>Carregando...</p>
-      </div>
-    );
+    return <div className="flex-1" />;
   }
 
   return (

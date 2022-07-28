@@ -31,7 +31,7 @@ export function Subscribe() {
         <div className="max-w-[640px]">
           <Logo />
           <h1 className="mt-8 text-[2.5rem] leading-tight">
-            Construa uma{" "}
+            Construa uma
             <strong className="text-blue-500">aplicação completa</strong>, do
             zero, com
             <strong className="text-blue-500">React</strong>
