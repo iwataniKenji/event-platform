@@ -13,24 +13,24 @@
 </p>
 
 <h4 align="center">
-   🚧 Event Platform project in progress... 🚧
+   ✔️ Event Platform finished ✔️
 </h4>
 
 <H2 id="about">📙 About</H2>
 
 <p>Using the latest technologies, this event platform is an single page application developed for content creators to organize classes and livestreams based on a determined date and time to be available for the user. Also, this system has GraphCMS integration that allows easier way to input data to the components.</p>
 <p>Originally created on Ignite Lab #2 from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
-<!-- <p>
-    <h3><a href="https://letmeask-c10c3.web.app/">Check website &rarr;</a></h3>
-</p> -->
+<p>
+    <h3><a href="kenji-event-platform.vercel.app">Check website &rarr;</a></h3>
+</p>
 
 ---
 
 <H2 id="preview">🖼️ Preview</H2>
 
-<!-- <section align="center">
-    <img alt="Letmeask website overview" src="preview.gif"/>
-</section> -->
+<section align="center">
+    <img alt="Event Platform website overview" src="./src/assets/preview.gif"/>
+</section>
 
 ---
 
