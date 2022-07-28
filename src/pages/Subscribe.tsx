@@ -3,6 +3,8 @@ import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 
+import codeMockupImg from "/src/assets/code-mockup.png";
+
 export function Subscribe() {
   // usado para redirecionar usuário sem clicar em link
   const navigate = useNavigate();
@@ -74,7 +76,7 @@ export function Subscribe() {
           </form>
         </div>
       </div>
-      <img src="./src/assets/code-mockup.svg" className="mt-10" />
+      <img src={codeMockupImg} className="mt-10" />
     </div>
   );
 }
