@@ -21,7 +21,7 @@
 <p>Using the latest technologies, this event platform is an single page application developed for content creators to organize classes and livestreams based on a determined date and time to be available for the user. Also, this system has GraphCMS integration that allows easier way to input data to the components.</p>
 <p>Originally created on Ignite Lab #2 from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
 <p>
-    <h3><a href="kenji-event-platform.vercel.app">Check website &rarr;</a></h3>
+    <h3><a href="https://kenji-event-platform.vercel.app/">Check website &rarr;</a></h3>
 </p>
 
 ---
